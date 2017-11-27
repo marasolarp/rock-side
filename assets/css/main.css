@@ -1,0 +1,20 @@
+body{
+	padding: 0PX;
+	margin: 0px;
+}
+.picture{
+	border-radius: 25em;
+    width: 50%
+}	
+.title-rock{
+	text-align: center;
+}
+.title-rocklady{
+	text-align: center;
+	margin:3%;
+
+}
+.paragrahp-rocklady{
+	text-align: center;
+	margin:5%;
+}
