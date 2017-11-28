@@ -1,0 +1,14 @@
+@media (min-width: 535px)and (max-width: 824px){/*entre estos tamaños las columnas deben ser de 100% de ancho*/
+	[class*="col-"]{/* *aplica a todas las columnas,[]=acceder a todo lo de adentro*/
+    width: 100%;
+  }
+	#navegation{
+    display: none;
+  }
+  #navegationtwo{
+    display: block
+  }
+ .title-rock{
+  color:#000080;
+ }
+} 

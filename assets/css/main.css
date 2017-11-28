@@ -1,20 +1,72 @@
 body{
-	padding: 0PX;
-	margin: 0px;
+	padding: 0;
+	margin: 0;
+}
+#navegation{
+  background-color: #373c42 ;
+  color: #8b8b8b ;
+  padding-left: 3%;
+}
+
+.bootstrap {
+  font-size: 120%;
+  font-weight: bolder;
+  color: #fff;
+}
+.menu {
+  display: inline;
+  padding-left: 0;
+  padding-right: 0;
+}
+.menu:hover {
+  color: #fff;
+}
+#navegationtwo{
+  background-color: #373c42 ;
+  color: #8b8b8b ;
+  padding-left: 3%;
+  display: none;
+}
+i{
+  float: right;
+  color: #fff;
+}
+.main-rock{
+	background-image: url(../images/header.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 10% 0;
+	opacity: 0.9;
 }
 .picture{
 	border-radius: 25em;
-    width: 50%
+    width: 50%;
 }	
 .title-rock{
+	color:#FFF;
+	font-size: 3em;
+	text-align: center;
+}
+subtitle-rock{
+	color:#FFF;
+	font-size: 2em;
 	text-align: center;
 }
 .title-rocklady{
-	text-align: center;
+	text-align: justify;
 	margin:3%;
 
 }
 .paragrahp-rocklady{
-	text-align: center;
+	text-align: justify;
 	margin:5%;
+}
+.footnote{
+  background-color: #373c42 ;
+  color: #8b8b8b ;
+  padding-left: 3%;
+  text-align: right;
+}
+.paragrahp-footnote{
+  color: #fff;
 }
